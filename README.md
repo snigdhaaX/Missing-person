@@ -22,4 +22,4 @@ Dataset handling: CSV
 
 ##Example 
 Input: John Doe
-Output: Matching record displayed
+- Output: Matching record displayed
